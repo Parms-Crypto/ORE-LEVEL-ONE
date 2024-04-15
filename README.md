@@ -21,6 +21,6 @@ Don't be manipulated to pay more than what everyone else truly is. Over time pri
 Demand they fix their code and quit misinformation.
 
 EASY PEASY
-1. replace file
+1. rename update_difficulty.rs and replace, or simply copy paste.
 2. save power, compute resources, and gamble your luck!
 3. hopefully WIN
